@@ -1,2 +1,3 @@
-# coding-the-matrix
-Work for Coursera course "Coding the Matrix: Linear Algebra through Computer Science Applications" (https://www.coursera.org/course/matrix)
+# Coding the Matrix: Linear Algebra through Computer Science Applications
+
+Work for the Coursera course taught by Philip Klein at Brown University. (https://www.coursera.org/course/matrix)
